@@ -22,15 +22,17 @@ The insights gained from understanding the differences between casual riders and
 ### **PREPARE**
 
 Data was downloaded from the Divvy Bikes website: https://www.divvybikes.com/system-data 
-The data was presented in a monthly format and was considered reliable as it was compiled and published by the organization itself.
+The data was presented in a monthly format and was considered reliable as it was compiled and published by the organization itself. A full description of the process 
 
 ### **PROCESS** 
 
-To process, clean and analyze the data, the R programming language was selected. The necessary packages were loaded in R Studio and the data was imported using the read_csv function.
+To process, clean and analyze the data, the R programming language was selected. The necessary packages were loaded in R Studio and the data was imported using the read_csv function. In the data set, some columns were eliminated and new ones were introduced. Additionally, inaccuracies such as ride lengths less than or equal to zero were removed to ensure the validity and reliability of the information. A detailed explanation of the process can be located in the CaseStudy.r document.
 
 ### **ANALYZE**
 
-R Studio was utilized for data analysis, where multiple functions were applied to perform a comprehensive analysis of the data set. The use of different functions allowed for a thorough examination of the data and helped in uncovering insights and trends in the data. The results of the analysis were then used to make informed decisions and draw meaningful conclusions.
+R Studio was utilized for data analysis, where multiple functions were applied to perform a comprehensive analysis of the data set. By utilizing various functions, insights were gained into the usage patterns between members and casual riders. For instance, the average ride time was found to be longer for casual riders compared to members, yet members were observed to use the bikes more frequently. Additionally, the usage per weekday was also analyzed, revealing that members tended to use bikes more during weekdays, while casual riders were more likely to use them during weekends. Mean, median, maximum, and minimum values were also calculated.
+The results of the analysis were then used to make informed decisions and draw meaningful conclusions.
+For a more in-depth understanding, please refer to the CaseStudy.r document.
 
 ### **SHARE**
 
