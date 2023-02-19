@@ -32,7 +32,7 @@ To process, clean and analyze the data, the R programming language was selected.
 
 R Studio was utilized for data analysis, where multiple functions were applied to perform a comprehensive analysis of the data set. By utilizing various functions, insights were gained into the usage patterns between members and casual riders. For instance, the average ride time was found to be longer for casual riders compared to members, yet members were observed to use the bikes more frequently. Additionally, the usage per weekday was also analyzed, revealing that members tended to use bikes more during weekdays, while casual riders were more likely to use them during weekends. Mean, median, maximum, and minimum values were also calculated.
 The results of the analysis were then used to make informed decisions and draw meaningful conclusions.
-For a more in-depth understanding, please refer to the CaseStudy.r document.
+For a more in-depth understanding, please refer to the Cyclistic.Case.Study.Rmd document. You can also see the code here file:///Users/sabrinavazquez/Desktop/CaseStudy/Rmd-Case-Study-1.3.html
 
 ### **SHARE**
 
