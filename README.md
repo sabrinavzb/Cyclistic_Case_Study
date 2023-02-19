@@ -1,5 +1,5 @@
 # Cyclistic_Case_Study
-# Cyclistic 
+
 ## How do annual members and casual riders use Cyclistic bikes differently?
 
 ### **ASK**
