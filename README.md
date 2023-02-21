@@ -2,6 +2,8 @@
 
 ## How do annual members and casual riders use Cyclistic bikes differently?
 
+Cyclistic is a unique bike-share program that includes over 5,800 bicycles and 600 docking stations. It offers a variety of bikes such as reclining bikes, hand tricycles, and cargo bikes, catering to people with disabilities and those who cannot use a standard two-wheeled bike, thus promoting inclusivity.
+
 ### **ASK**
 
 - What is the problem you are trying to solve? 
