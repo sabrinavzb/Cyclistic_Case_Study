@@ -22,11 +22,11 @@ The insights gained from understanding the differences between casual riders and
 ### **PREPARE**
 
 Data was downloaded from the Divvy Bikes website: https://www.divvybikes.com/system-data 
-The data was presented in a monthly format and was considered reliable as it was compiled and published by the organization itself.  
+The data was presented in a monthly format and was considered reliable as it was compiled and published by the organization itself. The analysis was conducted using only one year's worth of data, specifically from January 2022 to December 2022
 
 ### **PROCESS** 
 
-To process, clean and analyze the data, the R programming language was selected. The necessary packages were loaded in R Studio and the data was imported using the read_csv function. In the data set, some columns were eliminated and new ones were introduced. Additionally, inaccuracies such as ride lengths less than or equal to zero were removed to ensure the validity and reliability of the information. A detailed explanation of the process can be located in the CaseStudy.r document.
+To process, clean and analyze the data, the R programming language was selected. The necessary packages were loaded in R Studio and the data was imported using the read_csv function. In the data set, some columns were eliminated and new ones were introduced. Additionally, inaccuracies such as ride lengths less than or equal to zero were removed to ensure the validity and reliability of the information. A detailed explanation of the process can be located in the Cyclistic.Case.Study.Rmd document.
 
 ### **ANALYZE**
 
@@ -41,4 +41,4 @@ A presentation was created to share the findings from the data analysis. It show
 
 ### **ACT** 
 
-Possible strategy, key takeaways and next steps to be followed were added to the presention. This provided a comprehensive picture of not only the results of the data analysis, but also a clear direction for future actions and considerations. The key takeaways were carefully selected to highlight the most important and impactful insights, providing a foundation for making informed decisions and driving forward progress.
+Possible strategy, key takeaways and next steps to be followed were added to the presention. This provided a comprehensive picture of not only the results of the data analysis, but also a clear direction for future actions and considerations. The key takeaways were carefully selected to highlight the most important and impactful insights, providing a foundation for making informed decisions.
