@@ -22,7 +22,7 @@ The insights gained from understanding the differences between casual riders and
 ### **PREPARE**
 
 Data was downloaded from the Divvy Bikes website: https://www.divvybikes.com/system-data 
-The data was presented in a monthly format and was considered reliable as it was compiled and published by the organization itself. A full description of the process 
+The data was presented in a monthly format and was considered reliable as it was compiled and published by the organization itself.  
 
 ### **PROCESS** 
 
